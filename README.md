@@ -141,12 +141,12 @@ Trade Signals: ['Sell', 'Buy', 'Sell', 'Buy', 'Hold', 'Hold', 'Buy', 'Hold', 'Bu
 - **VISULAIZATIONS** :
 - 
   ![Closing Price plot ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
-  ![Count Plot](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
-  ![Drawdown](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
-  ![matrix ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
-  ![portfolio ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
-  ![rolling returns ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
-  ![forecasting ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/closing%20price.png)
+  ![Count Plot](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/count.png)
+  ![Drawdown](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/drawdown.png)
+  ![matrix ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/matrix.png)
+  ![portfolio ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/portfolio.png)
+  ![rolling returns ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/rolling%20returns.png)
+  ![forecasting ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/forecasting.png)
 
 ## Author
 [Your Name]
