@@ -30,20 +30,13 @@ Bull | 0.12 | 0.68 | 0.20
 ### Line Plot: Daily Closing Prices
 This line chart illustrates the daily closing prices of Apple Inc. (AAPL) stock throughout the year 2023. It provides insights into the stock's performance over time, highlighting trends and fluctuations.
 
-### Distribution of Daily Returns
-This distribution chart showcases the daily returns of AAPL stock throughout 2023. It helps in understanding the volatility and risk associated with the stock over the specified period.
 
-### Moving Averages and Close Price
-This visualization presents the moving averages alongside the daily closing prices of AAPL stock for the year 2023. Moving averages are used to highlight trends and potential points of resistance or support.
-
-### Bollinger Bands
-Bollinger Bands are plotted above and below a moving average to visualize volatility and potential price reversals.
 
 ## Getting Started
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in `requirements.txt`.
-3. Run the Python script `portfolio_analysis.py` to execute the portfolio analysis and optimization code.
+3. Run the Python script `Sigma_wedge_Varsha_S.py` to execute the portfolio analysis and optimization code.
 4. View the generated outputs and visualizations to understand the results of the trading strategy.
 
 ## Dependencies
