@@ -149,5 +149,5 @@ Trade Signals: ['Sell', 'Buy', 'Sell', 'Buy', 'Hold', 'Hold', 'Buy', 'Hold', 'Bu
   ![forecasting ](https://github.com/varshasenthil2003/Sigma-Internship-Coding-Challenge/blob/main/Visualizations/forecasting.png)
 
 ## Author
-[Your Name]
+[Varsha S - PSG College of Technology]
 
